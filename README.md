@@ -1,21 +1,22 @@
-**Pre-requisties - Install the below softwares in machine**
-1. Nodejs
-2. JDK
-
-**Clone using the below command  into any new folder from cmd prompt or directly from VS code terminal**
-
-1. git clone https://github.com/Leka16/Lekha_Automation.git
-
-**Go to project's root directory and run the below commands one by one.**
+**Softwares required to be installed**
+Nodejs , JDK
 
 
-**C:\Users\Lekha Vetrivelan\Documents\Lekha_Automation> npm run initialsetup**
+**Run the below cmd in cmd prompt**
 
-**C:\Users\Lekha Vetrivelan\Documents\Lekha_Automation> npm run totest**
+ git clone https://github.com/Leka16/Lekha_Automation.git
+ 
 
-2. npm run initialsetup
-3. npm run totest
+**Run the below cmds from project root directory.**
 
-**We can view HTML reports and Screenshots in Testresults folder in root directory after execution.**
+
+**C:\Users\Lekha Vetrivelan\Documents\Lekha_Automation> npm run pretest**
+
+**C:\Users\Lekha Vetrivelan\Documents\Lekha_Automation> npm run toexecute**
+
+1. npm run pretest
+2. npm run toexecute
+
+**RootDirectory/testresults.**
 
 **C:\Users\Lekha Vetrivelan\Documents\Lekha_Automation\testresults**
