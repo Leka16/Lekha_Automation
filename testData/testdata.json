@@ -1,0 +1,14 @@
+{
+  "users": [
+      {
+        "firstname": "Leka",
+        "lastname": "vetri",
+        "email": "lekavetri@gmail.com",
+        "streetAddress": "706 Global main road",
+        "city": "justlikethat",
+        "zipcode": "12344"
+      }
+      
+    ]
+  }
+  
