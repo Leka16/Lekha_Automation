@@ -6,7 +6,7 @@
 
 1. git clone https://github.com/Leka16/Lekha_Automation.git
 
-**Go to project's root directory and run the below cmds one by one.**
+**Go to project's root directory and run the below commands one by one.**
 **C:\Users\Lekha Vetrivelan\Documents\Lekha_Automation> npm run initialsetup**
 **C:\Users\Lekha Vetrivelan\Documents\Lekha_Automation> npm run totest**
 
