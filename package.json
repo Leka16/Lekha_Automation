@@ -5,8 +5,8 @@
   "main": "conf.js",
   
   "scripts": {
-    "initialsetup": "npm install && webdriver-manager update --ignore_ssl",
-    "totest": "protractor conf.js"
+    "pretest": "npm install && webdriver-manager update --ignore_ssl",
+    "toexecute": "protractor conf.js"
   },
   "author": "Lekha",
   "license": "ISC",
